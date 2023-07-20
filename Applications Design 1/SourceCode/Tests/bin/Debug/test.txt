@@ -1,0 +1,2 @@
+Name: Scary movie, IsPG: Yes, IsSponsored: No, Release Date: 6/11/2022 13:03:39, Primary Genre: Horror, SubGenres: Funny 
+Name: JEJE, IsPG: No, IsSponsored: Yes, Release Date: 6/11/2022 13:03:41, Primary Genre: Horror, Related Movies: Scary movie 
