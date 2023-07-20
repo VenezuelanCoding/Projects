@@ -1,0 +1,14 @@
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Logic.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Logic.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Data.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Domain.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Data.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Domain.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\obj\Debug\Logic.csproj.CopyComplete
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\obj\Debug\Logic.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\obj\Debug\Logic.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\EntityFramework.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\Data.dll.config
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Logic\bin\Debug\EntityFramework.xml
