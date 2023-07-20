@@ -1,0 +1,14 @@
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\Data.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\Data.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\Domain.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\Domain.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\obj\Debug\Data.csproj.CopyComplete
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\obj\Debug\Data.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\obj\Debug\Data.pdb
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\Data.dll.config
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\EntityFramework.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\EntityFramework.xml
+D:\ORT\DA1\Obligatorio-DA1-189213-269150-243193\SourceCode\Data\bin\Debug\EntityFramework.SqlServer.xml
